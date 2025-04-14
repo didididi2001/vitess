@@ -111,7 +111,7 @@ require (
 	golang.org/x/sync v0.12.0
 	gonum.org/v1/gonum v0.15.1
 	modernc.org/sqlite v1.36.1
-	vitess.io/vitess v0.0.0-00010101000000-000000000000
+	vitess.io/vitess v0.10.3-0.20250403051219-f37393ef0cb4
 )
 
 require (
@@ -225,5 +225,3 @@ require (
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.8.2 // indirect
 )
-
-replace vitess.io/vitess => github.com/didididi2001/vitess v0.0.0-20250414054143-5d5ea940a465
