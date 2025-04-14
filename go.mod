@@ -1,4 +1,4 @@
-module github.com/didididi2001/vitess.io/vitess
+module github.com/didididi2001/vitess
 
 go 1.24.1
 
